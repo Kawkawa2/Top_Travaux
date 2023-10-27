@@ -1,0 +1,6 @@
+projectKey=TopTravaux
+serverUrl=http://localhost:9000
+serverVersion=9.8.0.63668
+dashboardUrl=http://localhost:9000/dashboard?id=TopTravaux
+ceTaskId=AYiIArZckMCtprk6alve
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYiIArZckMCtprk6alve
